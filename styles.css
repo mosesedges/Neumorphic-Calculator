@@ -19,7 +19,7 @@ body {
 main {
     border-radius: 60px;
     padding: 2rem;
-    box-shadow: -6px -6px 9px #fff, 6px 6px 9px rgba(94, 104, 121, 0.5);
+    box-shadow: -6px -6px 9px #fff, 6px 6px 9px rgba(5, 5, 5, 0.5);
 }
 
 input,
